@@ -12,6 +12,7 @@ export const siteConfig = {
 	aboutMe:
 		" Full-Stack Engineer with a specialization in Cyber Security, currently managing the end-to-end development of BuildMarketLK. Experienced in architecting decoupled payment systems using Go and Domain-Driven Design, with a strong passion for building and securing scalable web applications.",
 	skills: [
+		"n8n",
 		"JAVA",
 		"Python",
 		"JS",
@@ -66,7 +67,7 @@ export const siteConfig = {
 			description:
 				"Often, patients or caretakers visit multiple pharmacies just to find all the prescribed medications. This platform solves that by letting users enter their medicine list and instantly find the closest pharmacy that has everything in stock saving time, energy, and stress.",
 			link: "",
-			skills: ["React", "Chakra UI", "Supabase", "Refine]"],
+			skills: ["React", "Chakra UI", "Supabase", "Refine"],
 		},
 	],
 	experience: [
